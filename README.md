@@ -1,6 +1,6 @@
 ### CS 6704 Workshop 3
 
-### Memebers
+### Members
 Andrew Jelson
 
 Rayhan Biju
